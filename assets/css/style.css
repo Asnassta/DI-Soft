@@ -179,6 +179,11 @@ body.hidden {
   .btn-send__result_gray {
     color: #838297; }
 
+.banner {
+  margin-top: 40px; }
+  .banner img {
+    width: 225px; }
+
 /*=========Header======*/
 .header {
   padding: 16px 0; }
